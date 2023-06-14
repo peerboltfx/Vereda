@@ -1,0 +1,16 @@
+.testimonial__content h2 {
+  font-weight: 600;
+  text-align: center;
+}
+.single__testimonial{
+  text-align: center;
+}
+.student__info .userimg{
+  display: inline-block;
+  justify-content: center;
+  text-align: center;
+}
+.testimonial__content{
+  justify-content: center;
+  text-align: center;
+}
